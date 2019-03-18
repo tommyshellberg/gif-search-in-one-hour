@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The 1 Hour Hackfest
+
+This React web app was built in under an hour as part of a pair programming challenge to reinforce concepts learned thus far in my Full Stack JavaScript development.
+
+No code was copied, everything is bespoke in the most hacky of ways. The project was created with the Create React App and components were imported from the React Bootstrap library. Standard fetch() calls were made to the Giphy API to retrieve GIFS based on the user input.
+
 ## Available Scripts
 
 In the project directory, you can run:
